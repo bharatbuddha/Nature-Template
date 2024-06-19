@@ -1,0 +1,163 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.row1{ 
+    background-image: url("mou1.jpg");
+    background-repeat: no-repeat;
+    height: 50vh;
+    width: 100%;
+    color: aliceblue;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.col3{
+    height: 50vh;
+    width: 50%;
+}
+.row2 .col3 h1,
+.row2 .col3 p{
+    color: white;
+}
+
+.col2{
+    background-image: url("mou2.jpg");
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-position: center;
+    width: 50%;
+    background-size: cover;
+}
+.col2{
+    color: white;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.main{
+    display: flex;
+}
+
+.col1{
+    width: 50%;
+}
+.col4{
+    background-image: url("ocean.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 50vh;
+    width: 50%;
+}
+.col4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+}
+
+.row2{
+    display: flex;
+}
+
+.row3{
+    background-image: url("desert.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 25vh;
+    width: 100%;
+}
+.row3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.row4{
+    height: 25vh;
+    display: flex;
+}
+.col22{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+/* .col4{
+    height: 50vh;
+    width: 50%;
+} */
+
+
+.col6{
+    background-image: url("Beach.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 50%;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.row-a{
+    background-color: black;
+    height: 50%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.row-aa{
+    height: 50%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.col-b,.col-a{
+    width: 50%;
+}
+.col-bb{
+    width: 50%;
+    background-color: bisque
+}
+
+.col-b{
+    background-color: aquamarine;
+}
+
+.row-b{
+    display: flex;
+    height: 50%;
+}
+
+.row-bb{
+    height: 50%;
+    display: flex;
+}
+
+.col-aa{
+    width: 50%;
+    height: 100%;
+    background-color: rgba(255, 140, 0, 0.629);
+}
+
+.col5{
+    width: 50%;
+}
